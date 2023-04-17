@@ -1,0 +1,16 @@
+header{
+    background-color:#60a4e5;
+    background-image:url(../img/pattern.png);
+    background-size: 650px;
+    max-width: 1400px;
+    height: 200px;
+    margin: 0 auto;
+}
+#logo{
+    background-image: url(../img/logo.svg);
+    max-width: 1400px;
+    height: 200px;
+    background-size:300px;
+    background-repeat: no-repeat;
+    background-position: 0cm;
+}
