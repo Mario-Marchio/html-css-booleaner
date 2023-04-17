@@ -23,6 +23,16 @@ h1{
 a{
     text-decoration: none;
 }
+section{
+    max-width: 1400px;
+    margin: 0 auto;
+}
 #intestazione-foto{
     color: grey;
+}
+p{
+    font-size: 1.2em;
+}
+.importante{
+    background-color: yellow;
 }
