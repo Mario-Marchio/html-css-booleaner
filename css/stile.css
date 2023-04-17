@@ -14,3 +14,15 @@ header{
     background-repeat: no-repeat;
     background-position: 0cm;
 }
+h1{
+    font-size: 3.2em;
+    max-width: 1400px;
+    margin: 0 auto;
+   
+}
+a{
+    text-decoration: none;
+}
+#intestazione-foto{
+    color: grey;
+}
