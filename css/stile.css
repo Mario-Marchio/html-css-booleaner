@@ -36,3 +36,6 @@ p{
 .importante{
     background-color: yellow;
 }
+ul{
+    margin-left: -40px;
+}
