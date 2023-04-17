@@ -1,3 +1,7 @@
+body{
+    max-width: 1400px;
+    margin: 0 auto;
+}
 header{
     background-color:#60a4e5;
     background-image:url(../img/pattern.png);
@@ -22,10 +26,6 @@ h1{
 a{
     text-decoration: none;
     color: #60a4e5;
-}
-section{
-    max-width: 1400px;
-    margin: 0 auto;
 }
 #intestazione-foto{
     color: grey;
@@ -53,4 +53,22 @@ thead{
 }
 .body-color{
     background-color: #80bfe4;
+}
+h3{
+    color: grey;
+}
+#foto1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    font-size:130%; 
+    height: 190px;
+    color: white;
+}
+#foto2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    font-size:130%; 
+    height: 190px;
+    margin-top: 15px;
+    color: white;
 }
